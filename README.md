@@ -1,5 +1,5 @@
 # UB-hacking
-## You might have to install bunch of libraries so just run this code:-
+## You might have to install bunch of libraries so just run this on your command prompt or terminal:-
 ### pip install pyperclip
 ### pip install cryptography
 ### pip install tk-tools
