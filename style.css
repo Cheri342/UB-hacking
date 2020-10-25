@@ -1,0 +1,29 @@
+body {
+  font-family: "Opens Sans", helvetica, arial, sans-serif;
+  margin: 3vw;
+}
+h1 {
+  color: #4E92DF;
+}
+h2 {
+
+  color: #142133 ; 
+}
+image {
+  height: 40vh;
+  width: auto;
+  margin: 0 auto;
+}
+.about {
+  width: 46vw ;
+  float: left ;
+}
+.info {
+  width: 46vw ;
+  float:right ; 
+}
+footer {
+  color: #142133;
+}
+
+ 
